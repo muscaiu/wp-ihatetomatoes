@@ -1,0 +1,16 @@
+{
+  "name": "documentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.bundle.js",
+  "scripts": {
+    "dev": "webpack -d",
+    "prod": "webpack -p"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.28.0",
+    "webpack": "^2.3.2"
+  }
+}
